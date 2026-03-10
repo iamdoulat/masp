@@ -1,0 +1,30 @@
+# Ignore all folders except frontend
+backend/
+backend.zip
+database/
+extension/
+
+# Ignore system/agent metadata
+.gemini/
+.agents/
+.agent/
+_agents/
+_agent/
+brain/
+implementation_plan*.md
+walkthrough*.md
+task.md
+
+# Ignore OS files
+Thumb.db
+.DS_Store
+
+# Ignore Node.js local files
+node_modules/
+.next/
+dist/
+build/
+.env
+.env.local
+.env.production
+*.log
