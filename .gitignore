@@ -32,6 +32,5 @@ node_modules/
 next-env.d.ts
 
 # non-build folders (ignored for frontend repo)
-backend/
 database/
 extension/
