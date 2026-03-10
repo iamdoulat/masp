@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+node_modules/
+.env
+.env.production
+.env.local
+.DS_Store
+uploads/
+/tmp/
+package-lock.json
+*.log
+=======
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -39,3 +50,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+>>>>>>> 1a926bd52ab7476ce4fa64e8eaa9f49f5b577c42
